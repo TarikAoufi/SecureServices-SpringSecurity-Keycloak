@@ -17,8 +17,8 @@ Cette application se compose :
   
 Via la console admin de keycloak : 
 
-    • On peut ajouter l’interface d’enregistrement des utilisateurs, authentification avec email, 
-    rappeler moi, mot de passe oublié, …, en cochant les options dédiées.
+    • On peut ajouter l’interface d’enregistrement des utilisateurs, authentification avec email, rappeler moi, mot de passe oublié, …, 
+      en cochant les options dédiées.
     
     • Créer un Realm : un demaine où on va sécuriser plusieurs applications (clients). 
   
