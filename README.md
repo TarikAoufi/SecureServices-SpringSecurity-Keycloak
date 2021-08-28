@@ -6,14 +6,14 @@ Dans cette démo, on montre comment gérer la sécurité d’une application web
 
 Cette application se compose :
 
-  • Une application Front-end Web Spring MVC côté serveur basée sur thymeleaf, qui permet de gérer des livres et des gestionnaires. 
-    Les livres sont stockés dans une base de données MySQL et les gestionnaires sont accessible à distance via un micro service : Bookmanager-Service.
+    • Une application Front-end Web Spring MVC côté serveur basée sur thymeleaf, qui permet de gérer des livres et des gestionnaires. 
+      Les livres sont stockés dans une base de données MySQL et les gestionnaires sont accessible à distance via un micro service : Bookmanager-Service.
 
-  • Microservice Book-Service, pour gérer les livres et les auteurs.
+    • Microservice Book-Service, pour gérer les livres et les auteurs.
 
-  • Microservice Bookmanager-Service, pour gérer les Gestionnaires de livres.
+    • Microservice Bookmanager-Service, pour gérer les Gestionnaires de livres.
 
-  • La gestion des livres et des gestionnaires, dans l’application Front-end, est sécurisée via un système d’authentification SSO basé sur Keycloak Server.
+    • La gestion des livres et des gestionnaires, dans l’application Front-end, est sécurisée via un système d’authentification SSO basé sur Keycloak Server.
   
 Via la console admin de keycloak : 
 
