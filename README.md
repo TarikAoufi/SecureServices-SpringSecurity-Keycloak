@@ -1,5 +1,4 @@
 # SecureServices-SpringSecurity-Keycloak
-Java + Spring boot [ keycloak, security, data-rest, data-jpa, web, thymeleaf, hateoas, devtools ] + Maven + Bootstrap + MySQL + Eclipse
 
 
 Dans cette démo, on montre comment gérer la sécurité d’une application web rendu côté serveur avec l’adaptateur Keycloak.
