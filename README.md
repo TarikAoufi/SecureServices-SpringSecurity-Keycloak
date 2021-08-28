@@ -17,11 +17,11 @@ Cette application se compose :
   
 Via la console admin de keycloak : 
 
-  •	On peut ajouter l’interface d’enregistrement des utilisateurs, authentification avec email, 
+    • On peut ajouter l’interface d’enregistrement des utilisateurs, authentification avec email, 
     rappeler moi, mot de passe oublié, …, en cochant les options dédiées.
     
-  •	Créer un Realm : un demaine où on va sécuriser plusieurs applications (clients). 
+    • Créer un Realm : un demaine où on va sécuriser plusieurs applications (clients). 
   
-  •	Ajouter les utilisateurs qui utilisent ces applications et leur attribuer des rôles : ‘USER’, ‘MANAGER’, ‘ADMIN’.
+    • Ajouter les utilisateurs qui utilisent ces applications et leur attribuer des rôles : ‘USER’, ‘MANAGER’, ‘ADMIN’.
 
 Objectif : Sécuriser l’accès au service ‘bookmanager-service’ avec Keycloak. Pour interroger ce service, il faut s’authentifier en tant qu’utilisateur avec le rôle ‘MANAGER’.
