@@ -24,3 +24,4 @@ Via la console admin de keycloak :
     • Ajouter les utilisateurs qui utilisent ces applications et leur attribuer des rôles : ‘USER’, ‘MANAGER’, ‘ADMIN’.
 
 Objectif : Sécuriser l’accès au service ‘bookmanager-service’ avec Keycloak. Pour interroger ce service, il faut s’authentifier en tant qu’utilisateur avec le rôle ‘MANAGER’.
+  
