@@ -1,7 +1,7 @@
 # SecureServices-SpringSecurity-Keycloak
 
 
-Dans cette démo, on montre comment gérer la sécurité d’une application web rendu côté serveur avec l’adaptateur Keycloak.
+Dans cette démo, on montre comment gérer la sécurité d’une application web rendu côté serveur avec l’adaptateur Keycloak. 
 
 Cette application se compose :
 
