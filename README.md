@@ -25,4 +25,4 @@ Via la console admin de keycloak :
 
 Objectif : Sécuriser l’accès au service ‘bookmanager-service’ avec Keycloak. Pour interroger ce service, il faut s’authentifier en tant qu’utilisateur avec le rôle ‘MANAGER’.
   
-  
+
